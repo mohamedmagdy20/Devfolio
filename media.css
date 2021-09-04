@@ -1,0 +1,11 @@
+@media all and (max-width: 990px) {
+  .About-me-container {
+    flex-direction: column;
+  }
+  .About-me-container .About-me-content1 {
+    width: 100%;
+  }
+  .About-me-container .About-me-content2 {
+    width: 100%;
+  }
+}
